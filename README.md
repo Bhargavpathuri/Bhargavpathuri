@@ -1,69 +1,91 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E86AB&height=200&section=header&text=Bhargav%20Pathuri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20ML%20Engineer&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:1F4E79,100:2E86AB&height=250&section=header&text=Bhargav%20Pathuri&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst&descAlignY=60&descColor=a8d8ea&animation=twinkling&stroke=2E86AB&strokeWidth=2" width="100%"/>
 </div>
+
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargavpathuri)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
-[![University of Delaware](https://img.shields.io/badge/MS%20Data%20Science-University%20of%20Delaware-00539F?style=for-the-badge)](https://www.udel.edu)
-![F-1 OPT](https://img.shields.io/badge/F--1%20OPT-Available%20July%202026-28a745?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&multiline=true&width=700&height=80&lines=3%2B+Years+Industry+Experience+%7C+MS+Data+Science+%40+UDel;Building+ML+Pipelines+%7C+Predictive+Models+%7C+BI+Dashboards)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-pathuri-2486b61a7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhargavpathuri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Bhargavpathuri)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bhargavpathuri&label=Profile+Views&color=2E86AB&style=for-the-badge)
+![F-1 OPT](https://img.shields.io/badge/F--1%20OPT%20%E2%9C%85-Available%20July%202026-28a745?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="Data Science GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```python
-bhargav = {
-    "role"        : "Data Analyst → Data Scientist",
-    "education"   : "MS Data Science @ University of Delaware (May 2026)",
-    "experience"  : "3+ years | Wipro (RSA Insurance UK) + UDel Research",
-    "location"    : "Newark, DE, USA",
-    "open_to"     : ["Data Scientist", "Data Analyst", "ML Engineer"],
-    "visa"        : "F-1 OPT available July 2026",
-    "passion"     : "Turning raw data into decisions that matter"
-}
-```
+## 🧠 Who Am I?
 
-> *Data Analyst with 3+ years at Wipro, now completing MS in Data Science at University of Delaware. I build end-to-end ML pipelines, predictive models, and business intelligence dashboards — with real industry experience in financial services and insurance.*
+🎓 **MS Data Science** @ University of Delaware *(May 2026)*
+
+💼 **3+ years** as Data Analyst @ **Wipro** *(RSA Insurance Group UK)*
+
+🔬 **Research Assistant** — deep learning for materials science @ UDel
+
+📍 **Newark, DE, USA** — open to roles across the US
+
+🚀 Transitioning from **Data Analyst → Data Scientist**
+
+💡 I turn messy, large-scale data into **decisions that matter**
+
+🌐 **F-1 OPT available July 2026** | Open to H-1B sponsorship
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Arsenal
 
 <div align="center">
 
-**Languages & Core**
-
+### ⚡ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Machine Learning & AI**
-
+### 🤖 Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-**Data Visualization & BI**
-
+### 📊 Data Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Deployment & Tools**
-
+### 🚀 Deployment & MLOps
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 </div>
 
@@ -71,133 +93,103 @@ bhargav = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 💳 Credit Card Balance Prediction
-**Regression & Predictive Modeling**
+| 💳 Credit Card Balance Prediction | 📉 Telecom Churn Prediction |
+|---|---|
+| **Regression & Predictive Modeling** | **End-to-End ML Pipeline** |
+| Built a multiple linear regression model explaining **~94% of variance** in credit card balances. Feature engineering + cross-validation identified credit limit, income & student status as key drivers. | Churn prediction on **70K+ customer records** using Logistic Regression, Random Forest & XGBoost. ROC-AUC optimized. Identified billing & service patterns as top churn signals. |
+| `Python` `Scikit-learn` `Regression` `Stats` | `Python` `XGBoost` `Random Forest` `EDA` |
+| [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/Predicting-Credit-Card-Balances-Using-Regression-Analysis) | [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/Telecommunication_Churn_Project) |
 
-Built a multiple linear regression model explaining **~94% of variance** in credit card balances. Identified credit limit, income, and student status as top predictors through feature engineering and cross-validation.
+| 🌍 Global E-Commerce Analytics | 🌐 Broadband & Digital Divide |
+|---|---|
+| **Power BI Business Intelligence** | **ML + Geospatial Policy Analysis** |
+| 7-page interactive Power BI dashboard across **51K+ transactions, 164 countries**. Advanced DAX measures, star schema modeling, KPI scorecards & executive stakeholder reporting. | Analyzed broadband disparities using **2019–2023 Census ACS** data. Random Forest + regression models + GeoPandas choropleth maps to quantify poverty impact and guide policy. |
+| `Power BI` `DAX` `Power Query` `BI` | `Python` `GeoPandas` `Random Forest` `Policy` |
+| [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/powerbi-global-beauty-ecommerce-analysis) | [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/MLPP-2025) |
 
-`Python` `Scikit-learn` `Statistical Modeling` `Regression`
+| 🔬 ToF-SIMS Dimensionality Reduction | 📊 ML for Public Policy |
+|---|---|
+| **Unsupervised Learning & Research** | **6 Real-World Mini Projects** |
+| Applied **SOM, PCA, t-SNE & UMAP** to hyperspectral mass spectrometry data — accurately separating distinct material layers in thin-film samples. Comparative ML analysis. | Supervised + unsupervised learning across health, policing, urban change & climate — diabetes risk, stop-and-frisk bias, sea level forecasting & ZIP code business clustering. |
+| `Python` `PCA` `t-SNE` `UMAP` `Scikit-learn` | `Python` `Scikit-learn` `GeoPandas` `Fairness` |
+| [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/NRT-hackathon/2025-3M) | [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/Machine-Learning-for-public-policy-Mini-projects) |
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1F4E79?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhargavpathuri/Predicting-Credit-Card-Balances-Using-Regression-Analysis)
-
-</td>
-<td width="50%" valign="top">
-
-### 📉 Telecom Churn Prediction
-**End-to-End ML Pipeline**
-
-Built churn prediction system on **70K+ customer records** using Logistic Regression, Random Forest, and XGBoost. Identified key churn drivers through EDA and feature engineering.
-
-`Python` `XGBoost` `Random Forest` `EDA` `ROC-AUC`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-1F4E79?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhargavpathuri/Telecommunication_Churn_Project)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 Global E-Commerce Analytics
-**Power BI Business Intelligence**
-
-7-page interactive Power BI dashboard analyzing **51K+ transactions** across 164 countries. DAX measures for KPIs, YTD trends, profit analysis and executive-style stakeholder reporting.
-
-`Power BI` `DAX` `Power Query` `Business Intelligence`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-1F4E79?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhargavpathuri/powerbi-global-beauty-ecommerce-analysis)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Broadband & Digital Divide
-**ML + Geospatial Analysis**
-
-Analyzed broadband disparities across U.S. counties using Census ACS data. Built Random Forest and regression models; created choropleth maps with GeoPandas for policy-driven insights.
-
-`Python` `GeoPandas` `Random Forest` `Geospatial` `Policy`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-1F4E79?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhargavpathuri/MLPP-2025)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 ToF-SIMS Dimensionality Reduction
-**Unsupervised Learning & Research**
-
-Applied SOM, PCA, t-SNE, and UMAP to reduce dimensionality of complex hyperspectral mass spectrometry data — accurately separating distinct material layers in thin-film samples.
-
-`Python` `PCA` `t-SNE` `UMAP` `Scikit-learn` `Research`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-1F4E79?style=flat-square&logo=github&logoColor=white)](https://github.com/NRT-hackathon/2025-3M)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 ML for Public Policy
-**6 Real-World Mini Projects**
-
-Applied supervised/unsupervised learning to policy challenges — diabetes risk modeling, stop-and-frisk bias analysis, sea level forecasting, and ZIP code business clustering.
-
-`Python` `Scikit-learn` `GeoPandas` `Statsmodels` `Fairness`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-1F4E79?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhargavpathuri/Machine-Learning-for-public-policy-Mini-projects)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Professional Journey
-
-```
-2026 (present)  ██████████  Research Assistant @ University of Delaware
-                             CNNs • Deep Learning • HPC • Docker • Predictive Modeling
-
-2024 – 2025     ████████    Data Science Intern @ Ai Variant
-                             XGBoost • Churn Prediction • EDA • Feature Engineering
-
-2024 – 2025     ████████    Data Science Trainee @ ExcelR
-                             Python • ML • SQL • Business Intelligence • Cloud
-
-2021 – 2024     ████████████████████  Data Analyst @ Wipro Limited
-                                       Power BI • RSA Insurance UK • 2.9M+ records • ServiceNow
-```
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bhargavpathuri&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E86AB&icon_color=2E86AB&text_color=ffffff&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavpathuri&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86AB&text_color=ffffff&bg_color=0d1117" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargavpathuri&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E86AB&icon_color=2E86AB&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavpathuri&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86AB&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="180"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavpathuri&theme=tokyonight&hide_border=true&stroke=2E86AB&ring=2E86AB&fire=FF6B6B&currStreakLabel=2E86AB&background=0d1117" width="60%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Bhargavpathuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"/>
+</div>
+
+---
+
+## 💼 Career Timeline
+
+```
+📅 2025 – Present   ██████████████  Research Assistant @ University of Delaware
+                                     CNNs • Deep Learning • HPC Cluster • Docker • Predictive Modeling
+
+📅 2024 – 2025      ██████          Data Science Intern @ Ai Variant (Remote)
+                                     XGBoost • Churn Prediction • EDA • Feature Engineering • ROC-AUC
+
+📅 2024 – 2025      ██████          Data Science Trainee @ ExcelR
+                                     Python • Machine Learning • SQL • Business Intelligence • Cloud
+
+📅 2021 – 2024      ████████████    Data Analyst @ Wipro Limited
+                                     Power BI • RSA Insurance UK • 2.9M+ Records • ServiceNow
+```
 
 ---
 
 ## 🎯 Currently
 
-- 🔬 Research Assistant at UDel — building deep learning models for thin-film analysis
-- 🎓 Completing MS Data Science (May 2026)
-- 💼 Actively seeking **Data Scientist / Data Analyst** full-time roles
-- 🌍 Available on **F-1 OPT from July 2026** | Open to H-1B sponsorship
+<div align="center">
+
+| Status | Details |
+|--------|---------|
+| 🔬 **Researching** | Deep learning models for thin-film cation ratio prediction @ UDel |
+| 🎓 **Graduating** | MS Data Science — University of Delaware, May 2026 |
+| 💼 **Seeking** | Full-time **Data Scientist / Data Analyst** roles |
+| 🌍 **Visa** | F-1 OPT available **July 2026** · Open to H-1B sponsorship |
+| 📍 **Location** | Newark, DE — open to remote & relocation across the US |
+
+</div>
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:1F4E79&height=100&section=footer" width="100%"/>
+💌 **bpathuri@udel.edu** &nbsp;|&nbsp; 📍 **Newark, DE** &nbsp;|&nbsp; 💼 **Open to Opportunities**
 
-*"Without data, you're just another person with an opinion." — W. Edwards Deming*
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargav-pathuri-2486b61a7)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
 
-📩 **bpathuri@udel.edu** | 📍 Newark, DE | 🔗 [LinkedIn](https://www.linkedin.com/in/bhargav-pathuri-2486b61a7/)
+<br>
+
+*"Without data, you're just another person with an opinion."* — **W. Edwards Deming**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:0a0a2e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
