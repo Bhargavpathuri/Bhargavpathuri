@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&multiline=true&width=700&height=80&lines=3%2B+Years+Industry+Experience+%7C+MS+Data+Science+%40+UDel;Building+ML+Pipelines+%7C+Predictive+Models+%7C+BI+Dashboards)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=3%2B+Years+Industry+Experience+%7C+MS+Data+Science;Building+ML+Pipelines+%7C+Predictive+Models;Business+Intelligence+Dashboards+%7C+SQL+%7C+Python)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +14,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-pathuri-2486b61a7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargav-pathuri-2486b61a7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhargavpathuri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Bhargavpathuri)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhargavpathuri&label=Profile+Views&color=2E86AB&style=for-the-badge)
 ![F-1 OPT](https://img.shields.io/badge/F--1%20OPT%20%E2%9C%85-Available%20July%202026-28a745?style=for-the-badge&logo=checkmarx&logoColor=white)
@@ -79,7 +78,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### 🗄️ Databases & Cloud
@@ -123,12 +121,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhargavpathuri&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E86AB&icon_color=2E86AB&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavpathuri&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86AB&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="180"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhargavpathuri&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E86AB&icon_color=2E86AB&text_color=c9d1d9&bg_color=0d1117&count_private=true&cache_seconds=3600"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavpathuri&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86AB&text_color=c9d1d9&bg_color=0d1117&langs_count=6&cache_seconds=3600"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavpathuri&theme=tokyonight&hide_border=true&stroke=2E86AB&ring=2E86AB&fire=FF6B6B&currStreakLabel=2E86AB&background=0d1117" width="60%"/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=Bhargavpathuri&theme=tokyonight&hide_border=true&stroke=2E86AB&ring=2E86AB&fire=FF6B6B&currStreakLabel=2E86AB&background=0d1117"/>
+
 </div>
 
 ---
@@ -136,7 +138,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bhargavpathuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhargavpathuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 </div>
 
 ---
@@ -144,17 +146,17 @@
 ## 💼 Career Timeline
 
 ```
-📅 2025 – Present   ██████████████  Research Assistant @ University of Delaware
-                                     CNNs • Deep Learning • HPC Cluster • Docker • Predictive Modeling
+📅 2025–Present  ████████████  Research Assistant @ University of Delaware
+                               CNNs • Deep Learning • HPC • Docker • Predictive Modeling
 
-📅 2024 – 2025      ██████          Data Science Intern @ Ai Variant (Remote)
-                                     XGBoost • Churn Prediction • EDA • Feature Engineering • ROC-AUC
+📅 2024–2025     ██████        Data Science Intern @ Ai Variant (Remote)
+                               XGBoost • Churn Prediction • EDA • Feature Engineering
 
-📅 2024 – 2025      ██████          Data Science Trainee @ ExcelR
-                                     Python • Machine Learning • SQL • Business Intelligence • Cloud
+📅 2024–2025     ██████        Data Science Trainee @ ExcelR
+                               Python • ML • SQL • Business Intelligence • Cloud
 
-📅 2021 – 2024      ████████████    Data Analyst @ Wipro Limited
-                                     Power BI • RSA Insurance UK • 2.9M+ Records • ServiceNow
+📅 2021–2024     ████████████  Data Analyst @ Wipro Limited
+                               Power BI • RSA Insurance UK • 2.9M+ Records • ServiceNow
 ```
 
 ---
