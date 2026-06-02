@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Bhargav%20Pathuri&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst%20⚡&descAlignY=62&descColor=fff&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25&height=280&section=header&text=Bhargav%20Pathuri&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst%20⚡&descAlignY=62&descColor=fff&descSize=20" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=600&color=00FFD2&center=true&vCenter=true&multiline=false&width=700&lines=🔬+Research+Assistant+%40+University+of+Delaware;📊+3%2B+Years+%40+Wipro+%7C+RSA+Insurance+Group+UK;🤖+Predictive+Modeling+%7C+Deep+Learning+%7C+SQL;📈+Power+BI+%7C+XGBoost+%7C+Random+Forest;🌐+F-1+OPT+Available+July+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=🔬+Research+Assistant+%40+University+of+Delaware;📊+3%2B+Years+Industry+Experience+%40+Wipro;🤖+Predictive+Modeling+%7C+Deep+Learning+%7C+SQL;📈+Power+BI+%7C+XGBoost+%7C+Random+Forest+%7C+Python;🌐+F-1+OPT+Available+July+2026+—+Open+to+H-1B)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +14,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavpathuri/)
-[![Gmail](https://img.shields.io/badge/-%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
-[![Portfolio](https://img.shields.io/badge/-%20Portfolio-00FFD2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Bhargavpathuri)
-[![Views](https://komarev.com/ghpvc/?username=Bhargavpathuri&style=for-the-badge&color=00ffd2&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/Bhargavpathuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavpathuri/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhargavpathuri)
+[![Views](https://komarev.com/ghpvc/?username=Bhargavpathuri&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/Bhargavpathuri)
 
 </div>
 
@@ -68,7 +68,7 @@
 
 ### ⚡ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -76,10 +76,10 @@
 ### 🤖 Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189A35?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 📊 Data Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -108,7 +108,7 @@
 |:---:|:---:|
 | *Regression & Predictive Modeling* | *End-to-End ML Pipeline* |
 | Built multiple linear regression explaining **~94% variance** in credit card balances. Feature engineering + cross-validation identified credit limit, income & student status as top drivers. | Churn prediction on **70K+ records** using Logistic Regression, Random Forest & XGBoost. ROC-AUC optimized pipeline with billing & service feature engineering. |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square) ![Stats](https://img.shields.io/badge/-Statistical%20Modeling-0d1117?style=flat-square) ![CV](https://img.shields.io/badge/-Cross%20Validation-8A2BE2?style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-006400?style=flat-square) ![RF](https://img.shields.io/badge/-Random%20Forest-228B22?style=flat-square) ![LR](https://img.shields.io/badge/-Logistic%20Regression-FF6B6B?style=flat-square) ![EDA](https://img.shields.io/badge/-EDA-8A2BE2?style=flat-square) ![ROC](https://img.shields.io/badge/-ROC--AUC-00D4FF?style=flat-square) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square) ![StatModeling](https://img.shields.io/badge/Statistical%20Modeling-1F4E79?style=flat-square) ![CrossVal](https://img.shields.io/badge/Cross%20Validation-6A0DAD?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189A35?style=flat-square) ![RF](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square) ![LR](https://img.shields.io/badge/Logistic%20Regression-C0392B?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-6A0DAD?style=flat-square) ![ROCAUC](https://img.shields.io/badge/ROC--AUC-0A66C2?style=flat-square) |
 | [![Repo](https://img.shields.io/badge/🔗%20View%20Repository-161b22?style=for-the-badge&logo=github)](https://github.com/Bhargavpathuri/Predicting-Credit-Card-Balances-Using-Regression-Analysis) | [![Repo](https://img.shields.io/badge/🔗%20View%20Repository-161b22?style=for-the-badge&logo=github)](https://github.com/Bhargavpathuri/Telecommunication_Churn_Project) |
 
 <br>
@@ -117,7 +117,7 @@
 |:---:|:---:|
 | *Power BI Business Intelligence* | *ML + Geospatial Policy Analysis* |
 | 7-page Power BI dashboard — **51K+ transactions, 164 countries**. Advanced DAX, star schema, KPI scorecards, drill-through pages & executive stakeholder reporting. | Analyzed broadband disparities using **2019–2023 Census ACS** data. Random Forest + regression + GeoPandas choropleth maps to quantify poverty impact & guide policy. |
-| ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-0078D4?style=flat-square) ![PowerQuery](https://img.shields.io/badge/-Power%20Query-217346?style=flat-square) ![BI](https://img.shields.io/badge/-Business%20Intelligence-1F4E79?style=flat-square) ![KPI](https://img.shields.io/badge/-KPI%20Dashboards-FF6B6B?style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GeoPandas](https://img.shields.io/badge/-GeoPandas-139C5A?style=flat-square) ![RF](https://img.shields.io/badge/-Random%20Forest-228B22?style=flat-square) ![Regression](https://img.shields.io/badge/-Regression-8A2BE2?style=flat-square) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) |
+| ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square) ![PowerQuery](https://img.shields.io/badge/Power%20Query-217346?style=flat-square) ![BI](https://img.shields.io/badge/Business%20Intelligence-1F4E79?style=flat-square) ![KPI](https://img.shields.io/badge/KPI%20Dashboards-C0392B?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square) ![RF](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square) ![Regression](https://img.shields.io/badge/Regression-6A0DAD?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
 | [![Repo](https://img.shields.io/badge/🔗%20View%20Repository-161b22?style=for-the-badge&logo=github)](https://github.com/Bhargavpathuri/powerbi-global-beauty-ecommerce-analysis) | [![Repo](https://img.shields.io/badge/🔗%20View%20Repository-161b22?style=for-the-badge&logo=github)](https://github.com/Bhargavpathuri/MLPP-2025) |
 
 <br>
@@ -126,36 +126,9 @@
 |:---:|:---:|
 | *Unsupervised Learning & Research* | *6 Real-World Mini Projects* |
 | Applied **SOM, PCA, t-SNE & UMAP** to hyperspectral mass spectrometry data — accurately separating distinct material layers in thin-film samples. Comparative ML analysis. | Supervised + unsupervised ML across health, policing, urban change & climate — diabetes risk, stop-and-frisk bias, sea level rise & ZIP code business clustering. |
-| ![PCA](https://img.shields.io/badge/-PCA-8A2BE2?style=flat-square) ![tSNE](https://img.shields.io/badge/-t--SNE-FF6B6B?style=flat-square) ![UMAP](https://img.shields.io/badge/-UMAP-00D4FF?style=flat-square) ![SOM](https://img.shields.io/badge/-SOM-F7931E?style=flat-square) ![Scikit](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square) | ![Scikit](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square) ![GeoPandas](https://img.shields.io/badge/-GeoPandas-139C5A?style=flat-square) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-4C72B0?style=flat-square) ![Fairness](https://img.shields.io/badge/-Fairness%20ML-E91E63?style=flat-square) ![Clustering](https://img.shields.io/badge/-Clustering-228B22?style=flat-square) |
+| ![PCA](https://img.shields.io/badge/PCA-6A0DAD?style=flat-square) ![tSNE](https://img.shields.io/badge/t--SNE-C0392B?style=flat-square) ![UMAP](https://img.shields.io/badge/UMAP-0A66C2?style=flat-square) ![SOM](https://img.shields.io/badge/SOM-F7931E?style=flat-square) ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square) | ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square) ![Statsmodels](https://img.shields.io/badge/Statsmodels-4C72B0?style=flat-square) ![FairnessML](https://img.shields.io/badge/Fairness%20ML-E91E63?style=flat-square) ![Clustering](https://img.shields.io/badge/Clustering-228B22?style=flat-square) |
 | [![Repo](https://img.shields.io/badge/🔗%20View%20Repository-161b22?style=for-the-badge&logo=github)](https://github.com/NRT-hackathon/2025-3M) | [![Repo](https://img.shields.io/badge/🔗%20View%20Repository-161b22?style=for-the-badge&logo=github)](https://github.com/Bhargavpathuri/Machine-Learning-for-public-policy-Mini-projects) |
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Bhargavpathuri">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhargavpathuri&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFD2&icon_color=00FFD2&text_color=c9d1d9&bg_color=0d1117&count_private=true&rank_icon=github&include_all_commits=true" />
-</a>
-<a href="https://github.com/Bhargavpathuri">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavpathuri&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFD2&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</a>
-
-</div>
-
-<div align="center">
-<a href="https://git.io/streak-stats">
-  <img width="56%" src="https://streak-stats.demolab.com/?user=Bhargavpathuri&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00FFD2&ring=00FFD2&fire=FF6B6B&currStreakLabel=00FFD2&dates=8b949e&sideLabels=8b949e" />
-</a>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bhargavpathuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -166,80 +139,74 @@
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="8">
 <tr>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/2025–Now-00FFD2?style=for-the-badge&labelColor=0d1117&color=00FFD2"/>
+<td align="center" width="110">
+<b>2025 – Now</b>
 </td>
-<td align="center" width="40">
-<img src="https://img.shields.io/badge/●-00FFD2?style=flat-square&labelColor=00FFD2&color=00FFD2" width="12"/>
-</td>
+<td width="30" align="center">🔵</td>
 <td>
-<img src="https://img.shields.io/badge/🔬_Research_Assistant-University_of_Delaware-0d1117?style=for-the-badge&labelColor=1a3a5c&color=2196F3"/>
-<br><br>
-<img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/-CNNs-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/-HPC%20Cluster-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Predictive%20Modeling-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<b>🔬 Research Assistant</b> &nbsp;·&nbsp; University of Delaware
+<br>
+<sub>
+![DeepLearning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
+![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=flat-square)
+![HPC](https://img.shields.io/badge/HPC%20Cluster-0A66C2?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PredModeling](https://img.shields.io/badge/Predictive%20Modeling-6A0DAD?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</sub>
 </td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
+<tr><td colspan="3"><hr style="border:none;border-top:1px solid #30363d"/></td></tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/2024–2025-00D4FF?style=for-the-badge&labelColor=0d1117&color=00D4FF"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/●-00D4FF?style=flat-square&labelColor=00D4FF&color=00D4FF" width="12"/>
-</td>
+<td align="center"><b>2024 – 2025</b></td>
+<td align="center">🟢</td>
 <td>
-<img src="https://img.shields.io/badge/📉_Data_Science_Intern-Ai_Variant_(Remote)-0d1117?style=for-the-badge&labelColor=1a4a2a&color=4CAF50"/>
-<br><br>
-<img src="https://img.shields.io/badge/-XGBoost-006400?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Random%20Forest-228B22?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Churn%20Prediction-E91E63?style=flat-square"/>
-<img src="https://img.shields.io/badge/-EDA-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Feature%20Engineering-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/-ROC--AUC-00D4FF?style=flat-square"/>
+<b>📉 Data Science Intern</b> &nbsp;·&nbsp; Ai Variant *(Remote)*
+<br>
+<sub>
+![XGBoost](https://img.shields.io/badge/XGBoost-189A35?style=flat-square)
+![RandomForest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square)
+![ChurnPrediction](https://img.shields.io/badge/Churn%20Prediction-E91E63?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-6A0DAD?style=flat-square)
+![FeatureEng](https://img.shields.io/badge/Feature%20Engineering-C0392B?style=flat-square)
+![ROCAUC](https://img.shields.io/badge/ROC--AUC-0A66C2?style=flat-square)
+</sub>
 </td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
+<tr><td colspan="3"><hr style="border:none;border-top:1px solid #30363d"/></td></tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/2024–2025-F7931E?style=for-the-badge&labelColor=0d1117&color=F7931E"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/●-F7931E?style=flat-square&labelColor=F7931E&color=F7931E" width="12"/>
-</td>
+<td align="center"><b>2024 – 2025</b></td>
+<td align="center">🟠</td>
 <td>
-<img src="https://img.shields.io/badge/🎓_Data_Science_Trainee-ExcelR-0d1117?style=for-the-badge&labelColor=4a3a1a&color=FF9800"/>
-<br><br>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square"/>
-<img src="https://img.shields.io/badge/-SQL-025E8C?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Business%20Intelligence-1F4E79?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Data%20Visualization-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Cloud-0078D4?style=flat-square"/>
+<b>🎓 Data Science Trainee</b> &nbsp;·&nbsp; ExcelR
+<br>
+<sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
+![BI](https://img.shields.io/badge/Business%20Intelligence-1F4E79?style=flat-square)
+![DataViz](https://img.shields.io/badge/Data%20Visualization-11557C?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=flat-square)
+</sub>
 </td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
+<tr><td colspan="3"><hr style="border:none;border-top:1px solid #30363d"/></td></tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/2021–2024-F2C811?style=for-the-badge&labelColor=0d1117&color=F2C811"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/●-F2C811?style=flat-square&labelColor=F2C811&color=F2C811" width="12"/>
-</td>
+<td align="center"><b>2021 – 2024</b></td>
+<td align="center">🟡</td>
 <td>
-<img src="https://img.shields.io/badge/💼_Data_Analyst-Wipro_Limited-0d1117?style=for-the-badge&labelColor=3a1a1a&color=F44336"/>
-<br><br>
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/-SQL-025E8C?style=flat-square"/>
-<img src="https://img.shields.io/badge/-RSA%20Insurance%20UK-E91E63?style=flat-square"/>
-<img src="https://img.shields.io/badge/-EDA-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/-ServiceNow-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/-2.9M%2B%20Records-FF6B6B?style=flat-square"/>
+<b>💼 Data Analyst</b> &nbsp;·&nbsp; Wipro Limited — RSA Insurance Group UK
+<br>
+<sub>
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-6A0DAD?style=flat-square)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-138A00?style=flat-square)
+![InsuranceData](https://img.shields.io/badge/2.9M%2B%20Records-C0392B?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</sub>
 </td>
 </tr>
 </table>
@@ -292,10 +259,10 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Bhargavpathuri/Bhargavpathuri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Bhargavpathuri/Bhargavpathuri/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
