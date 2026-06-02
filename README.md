@@ -137,81 +137,27 @@
 
 <br>
 
-<div align="center">
+**🔵 &nbsp; 2025 – Present &nbsp;|&nbsp; 🔬 Research Assistant &nbsp;·&nbsp; University of Delaware**
 
-<table border="0" cellpadding="8">
-<tr>
-<td align="center" width="110">
-<b>2025 – Now</b>
-</td>
-<td width="30" align="center">🔵</td>
-<td>
-<b>🔬 Research Assistant</b> &nbsp;·&nbsp; University of Delaware
-<br>
-<sub>
-![DeepLearning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
-![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=flat-square)
-![HPC](https://img.shields.io/badge/HPC%20Cluster-0A66C2?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PredModeling](https://img.shields.io/badge/Predictive%20Modeling-6A0DAD?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</sub>
-</td>
-</tr>
-<tr><td colspan="3"><hr style="border:none;border-top:1px solid #30363d"/></td></tr>
-<tr>
-<td align="center"><b>2024 – 2025</b></td>
-<td align="center">🟢</td>
-<td>
-<b>📉 Data Science Intern</b> &nbsp;·&nbsp; Ai Variant *(Remote)*
-<br>
-<sub>
-![XGBoost](https://img.shields.io/badge/XGBoost-189A35?style=flat-square)
-![RandomForest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square)
-![ChurnPrediction](https://img.shields.io/badge/Churn%20Prediction-E91E63?style=flat-square)
-![EDA](https://img.shields.io/badge/EDA-6A0DAD?style=flat-square)
-![FeatureEng](https://img.shields.io/badge/Feature%20Engineering-C0392B?style=flat-square)
-![ROCAUC](https://img.shields.io/badge/ROC--AUC-0A66C2?style=flat-square)
-</sub>
-</td>
-</tr>
-<tr><td colspan="3"><hr style="border:none;border-top:1px solid #30363d"/></td></tr>
-<tr>
-<td align="center"><b>2024 – 2025</b></td>
-<td align="center">🟠</td>
-<td>
-<b>🎓 Data Science Trainee</b> &nbsp;·&nbsp; ExcelR
-<br>
-<sub>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
-![BI](https://img.shields.io/badge/Business%20Intelligence-1F4E79?style=flat-square)
-![DataViz](https://img.shields.io/badge/Data%20Visualization-11557C?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=flat-square)
-</sub>
-</td>
-</tr>
-<tr><td colspan="3"><hr style="border:none;border-top:1px solid #30363d"/></td></tr>
-<tr>
-<td align="center"><b>2021 – 2024</b></td>
-<td align="center">🟡</td>
-<td>
-<b>💼 Data Analyst</b> &nbsp;·&nbsp; Wipro Limited — RSA Insurance Group UK
-<br>
-<sub>
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
-![EDA](https://img.shields.io/badge/EDA-6A0DAD?style=flat-square)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-138A00?style=flat-square)
-![InsuranceData](https://img.shields.io/badge/2.9M%2B%20Records-C0392B?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</sub>
-</td>
-</tr>
-</table>
+![DeepLearning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square) ![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=flat-square) ![HPC](https://img.shields.io/badge/HPC%20Cluster-0A66C2?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PredModeling](https://img.shields.io/badge/Predictive%20Modeling-6A0DAD?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</div>
+<br>
+
+**🟢 &nbsp; 2024 – 2025 &nbsp;|&nbsp; 📉 Data Science Intern &nbsp;·&nbsp; Ai Variant *(Remote)***
+
+![XGBoost](https://img.shields.io/badge/XGBoost-189A35?style=flat-square) ![RandomForest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square) ![ChurnPrediction](https://img.shields.io/badge/Churn%20Prediction-E91E63?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-6A0DAD?style=flat-square) ![FeatureEng](https://img.shields.io/badge/Feature%20Engineering-C0392B?style=flat-square) ![ROCAUC](https://img.shields.io/badge/ROC--AUC-0A66C2?style=flat-square)
+
+<br>
+
+**🟠 &nbsp; 2024 – 2025 &nbsp;|&nbsp; 🎓 Data Science Trainee &nbsp;·&nbsp; ExcelR**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square) ![BI](https://img.shields.io/badge/Business%20Intelligence-1F4E79?style=flat-square) ![DataViz](https://img.shields.io/badge/Data%20Visualization-11557C?style=flat-square) ![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=flat-square)
+
+<br>
+
+**🟡 &nbsp; 2021 – 2024 &nbsp;|&nbsp; 💼 Data Analyst &nbsp;·&nbsp; Wipro Limited — RSA Insurance Group UK**
+
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-6A0DAD?style=flat-square) ![ServiceNow](https://img.shields.io/badge/ServiceNow-138A00?style=flat-square) ![Records](https://img.shields.io/badge/2.9M%2B%20Records-C0392B?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <br>
 
@@ -221,26 +167,14 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td>🔭</td><td><b>Working on</b></td><td>Deep learning models for thin-film cation ratio prediction @ UDel</td>
-</tr>
-<tr>
-<td>🎓</td><td><b>Graduating</b></td><td>MS Data Science — University of Delaware <b>(May 2026)</b></td>
-</tr>
-<tr>
-<td>💼</td><td><b>Seeking</b></td><td>Full-time <b>Data Scientist / Data Analyst</b> roles</td>
-</tr>
-<tr>
-<td>🌍</td><td><b>Visa</b></td><td><b>F-1 OPT from July 2026</b> · Open to H-1B sponsorship</td>
-</tr>
-<tr>
-<td>📍</td><td><b>Location</b></td><td>Newark, DE · Open to remote & relocation across the US</td>
-</tr>
-<tr>
-<td>📫</td><td><b>Contact</b></td><td><b>bpathuri@udel.edu</b></td>
-</tr>
-</table>
+| | | |
+|:---:|:---|:---|
+| 🔭 | **Working on** | Deep learning models for thin-film cation ratio prediction @ UDel |
+| 🎓 | **Graduating** | MS Data Science — University of Delaware **(May 2026)** |
+| 💼 | **Seeking** | Full-time **Data Scientist / Data Analyst** roles |
+| 🌍 | **Visa** | **F-1 OPT from July 2026** · Open to H-1B sponsorship |
+| 📍 | **Location** | Newark, DE · Open to remote & relocation across the US |
+| 📫 | **Contact** | **bpathuri@udel.edu** |
 
 </div>
 
