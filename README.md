@@ -1,197 +1,229 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:1F4E79,100:2E86AB&height=250&section=header&text=Bhargav%20Pathuri&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst&descAlignY=60&descColor=a8d8ea&animation=twinkling&stroke=2E86AB&strokeWidth=2" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Bhargav%20Pathuri&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst&descAlignY=75&descColor=fff&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=3%2B+Years+Industry+Experience+%40+Wipro;MS+Data+Science+%40+University+of+Delaware;Building+Predictive+Models+%7C+ML+Pipelines;Power+BI+Dashboards+%7C+SQL+%7C+Python;F-1+OPT+Available+July+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
 <br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=3%2B+Years+Industry+Experience+%7C+MS+Data+Science;Building+ML+Pipelines+%7C+Predictive+Models;Business+Intelligence+Dashboards+%7C+SQL+%7C+Python)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavpathuri/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhargavpathuri)
+[![Profile Views](https://komarev.com/ghpvc/?username=Bhargavpathuri&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Bhargavpathuri)
 
 </div>
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<table border="0" align="center">
+<tr>
+<td width="50%" align="left">
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Bhargav Pathuri
+location: Newark, DE, USA
+education:
+  - MS Data Science @ UDel (May 2026)
+  - B.Tech ECE @ JNTU India
+experience: 3+ years industry
+current_role: Research Assistant @ UDel
+open_to:
+  - Data Scientist
+  - Data Analyst  
+  - ML Engineer
+visa: F-1 OPT from July 2026
+sponsorship: Open to H-1B
+```
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavpathuri/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhargavpathuri)
+<table>
+<tr><td align="center" width="130">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bhargavpathuri&label=Profile+Views&color=2E86AB&style=for-the-badge)
-![F-1 OPT](https://img.shields.io/badge/F--1%20OPT%20%E2%9C%85-Available%20July%202026-28a745?style=for-the-badge&logo=checkmarx&logoColor=white)
+**Languages**
+
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+
+`Python` `SQL` `Java`
+
+</td><td align="center" width="130">
+
+**ML / AI**
+
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
+`Scikit-learn` `XGBoost` `CNNs`
+
+</td><td align="center" width="130">
+
+**BI & Viz**
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=1a1a2e)
+
+`Power BI` `Plotly` `Seaborn`
+
+</td><td align="center" width="130">
+
+**Databases**
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+`MySQL` `SQL` `Excel`
+
+</td><td align="center" width="130">
+
+**DevOps**
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+
+`Docker` `Git` `Linux`
+
+</td><td align="center" width="130">
+
+**Deploy**
+
+![Flask](https://skillicons.dev/icons?i=flask)
+
+`Flask` `FastAPI` `Streamlit`
+
+</td></tr>
+</table>
 
 </div>
 
----
-
-<img align="right" alt="Data Science GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-## 🧠 Who Am I?
-
-🎓 **MS Data Science** @ University of Delaware *(May 2026)*
-
-💼 **3+ years** as Data Analyst @ **Wipro** *(RSA Insurance Group UK)*
-
-🔬 **Research Assistant** — deep learning for materials science @ UDel
-
-📍 **Newark, DE, USA** — open to roles across the US
-
-🚀 Transitioning from **Data Analyst → Data Scientist**
-
-💡 I turn messy, large-scale data into **decisions that matter**
-
-🌐 **F-1 OPT available July 2026** | Open to H-1B sponsorship
-
-<br clear="right"/>
-
----
-
-## 💻 Tech Arsenal
-
-<div align="center">
-
-### ⚡ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🤖 Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-
-### 📊 Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-### 🚀 Deployment & MLOps
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
 <div align="center">
-
-| 💳 Credit Card Balance Prediction | 📉 Telecom Churn Prediction |
-|---|---|
-| **Regression & Predictive Modeling** | **End-to-End ML Pipeline** |
-| Built a multiple linear regression model explaining **~94% of variance** in credit card balances. Feature engineering + cross-validation identified credit limit, income & student status as key drivers. | Churn prediction on **70K+ customer records** using Logistic Regression, Random Forest & XGBoost. ROC-AUC optimized. Identified billing & service patterns as top churn signals. |
-| `Python` `Scikit-learn` `Regression` `Stats` | `Python` `XGBoost` `Random Forest` `EDA` |
-| [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/Predicting-Credit-Card-Balances-Using-Regression-Analysis) | [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/Telecommunication_Churn_Project) |
-
-| 🌍 Global E-Commerce Analytics | 🌐 Broadband & Digital Divide |
-|---|---|
-| **Power BI Business Intelligence** | **ML + Geospatial Policy Analysis** |
-| 7-page interactive Power BI dashboard across **51K+ transactions, 164 countries**. Advanced DAX measures, star schema modeling, KPI scorecards & executive stakeholder reporting. | Analyzed broadband disparities using **2019–2023 Census ACS** data. Random Forest + regression models + GeoPandas choropleth maps to quantify poverty impact and guide policy. |
-| `Power BI` `DAX` `Power Query` `BI` | `Python` `GeoPandas` `Random Forest` `Policy` |
-| [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/powerbi-global-beauty-ecommerce-analysis) | [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/MLPP-2025) |
-
-| 🔬 ToF-SIMS Dimensionality Reduction | 📊 ML for Public Policy |
-|---|---|
-| **Unsupervised Learning & Research** | **6 Real-World Mini Projects** |
-| Applied **SOM, PCA, t-SNE & UMAP** to hyperspectral mass spectrometry data — accurately separating distinct material layers in thin-film samples. Comparative ML analysis. | Supervised + unsupervised learning across health, policing, urban change & climate — diabetes risk, stop-and-frisk bias, sea level forecasting & ZIP code business clustering. |
-| `Python` `PCA` `t-SNE` `UMAP` `Scikit-learn` | `Python` `Scikit-learn` `GeoPandas` `Fairness` |
-| [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/NRT-hackathon/2025-3M) | [![Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/Bhargavpathuri/Machine-Learning-for-public-policy-Mini-projects) |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhargavpathuri&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E86AB&icon_color=2E86AB&text_color=c9d1d9&bg_color=0d1117&count_private=true&cache_seconds=3600"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavpathuri&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86AB&text_color=c9d1d9&bg_color=0d1117&langs_count=6&cache_seconds=3600"/>
-
+<a href="https://github.com/Bhargavpathuri/Predicting-Credit-Card-Balances-Using-Regression-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavpathuri&repo=Predicting-Credit-Card-Balances-Using-Regression-Analysis&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Bhargavpathuri/Telecommunication_Churn_Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavpathuri&repo=Telecommunication_Churn_Project&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&text_color=c9d1d9" />
+</a>
 </div>
 
 <div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=Bhargavpathuri&theme=tokyonight&hide_border=true&stroke=2E86AB&ring=2E86AB&fire=FF6B6B&currStreakLabel=2E86AB&background=0d1117"/>
-
+<a href="https://github.com/Bhargavpathuri/powerbi-global-beauty-ecommerce-analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavpathuri&repo=powerbi-global-beauty-ecommerce-analysis&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Bhargavpathuri/MLPP-2025">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavpathuri&repo=MLPP-2025&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&text_color=c9d1d9" />
+</a>
 </div>
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bhargavpathuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+<a href="https://github.com/Bhargavpathuri/Machine-Learning-for-public-policy-Mini-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavpathuri&repo=Machine-Learning-for-public-policy-Mini-projects&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/NRT-hackathon/2025-3M">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NRT-hackathon&repo=2025-3M&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&text_color=c9d1d9" />
+</a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Career Timeline
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhargavpathuri&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavpathuri&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6"/>
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Bhargavpathuri&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" width="55%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 Experience Timeline
+
+<div align="center">
 
 ```
-📅 2025–Present  ████████████  Research Assistant @ University of Delaware
-                               CNNs • Deep Learning • HPC • Docker • Predictive Modeling
-
-📅 2024–2025     ██████        Data Science Intern @ Ai Variant (Remote)
-                               XGBoost • Churn Prediction • EDA • Feature Engineering
-
-📅 2024–2025     ██████        Data Science Trainee @ ExcelR
-                               Python • ML • SQL • Business Intelligence • Cloud
-
-📅 2021–2024     ████████████  Data Analyst @ Wipro Limited
-                               Power BI • RSA Insurance UK • 2.9M+ Records • ServiceNow
+┌─────────────────────────────────────────────────────────────────────┐
+│                     CAREER JOURNEY                                  │
+├──────────────┬──────────────────────────────────────────────────────┤
+│ 2025–Present │ 🔬 Research Assistant @ University of Delaware       │
+│              │    CNNs • Deep Learning • HPC • Docker • Pred. Model │
+├──────────────┼──────────────────────────────────────────────────────┤
+│  2024–2025   │ 📊 Data Science Intern @ Ai Variant (Remote)         │
+│              │    XGBoost • Churn Prediction • EDA • ROC-AUC        │
+├──────────────┼──────────────────────────────────────────────────────┤
+│  2024–2025   │ 🎓 Data Science Trainee @ ExcelR                     │
+│              │    Python • ML • SQL • Business Intelligence         │
+├──────────────┼──────────────────────────────────────────────────────┤
+│  2021–2024   │ 💼 Data Analyst @ Wipro Limited                      │
+│              │    Power BI • RSA Insurance UK • 2.9M+ Records       │
+└──────────────┴──────────────────────────────────────────────────────┘
 ```
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Currently
 
 <div align="center">
 
-| Status | Details |
-|--------|---------|
-| 🔬 **Researching** | Deep learning models for thin-film cation ratio prediction @ UDel |
-| 🎓 **Graduating** | MS Data Science — University of Delaware, May 2026 |
-| 💼 **Seeking** | Full-time **Data Scientist / Data Analyst** roles |
-| 🌍 **Visa** | F-1 OPT available **July 2026** · Open to H-1B sponsorship |
-| 📍 **Location** | Newark, DE — open to remote & relocation across the US |
+| 🔭 | Working on deep learning models for thin-film analysis @ UDel |
+|---|---|
+| 🎓 | Completing **MS Data Science** — University of Delaware (May 2026) |
+| 💼 | Seeking **Data Scientist / Data Analyst** full-time roles |
+| 🌍 | **F-1 OPT from July 2026** · Open to H-1B sponsorship |
+| 📍 | Newark, DE · Open to remote & relocation across the US |
+| 📫 | Reach me at **bpathuri@udel.edu** |
 
 </div>
 
----
-
-## 🤝 Let's Connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-💌 **bpathuri@udel.edu** &nbsp;|&nbsp; 📍 **Newark, DE** &nbsp;|&nbsp; 💼 **Open to Opportunities**
+### 🤝 Let's Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargav-pathuri-2486b61a7)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
-
-<br>
-
-*"Without data, you're just another person with an opinion."* — **W. Edwards Deming**
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavpathuri/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpathuri@udel.edu)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:0a0a2e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
